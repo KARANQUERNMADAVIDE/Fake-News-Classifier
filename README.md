@@ -1,9 +1,14 @@
 #  Fake News📰 Classification WebApp using Python
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
-[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
-## [Follow us on Instagram for Machine Learning Guidelines & Path](https://www.instagram.com/machine_learning_hub.ai/)
-## [Buy Python & ML projects for students at lower rate](https://www.instamojo.com/kushalbhavsar1820)
+## The Problem !
+    The problem is not only hackers, going into accounts, and sending false information. The bigger problem here is what we call "Fake News". A fake are those news stories that     are false: the story itself is fabricated, with no verifiable facts, sources, or quotes.
+    When someone (or something like a bot) impersonates someone or a reliable source to false spread information, that can also be considered as fake news. In most cases, the       people creating this false information have an agenda, that can be political, economical or to change the behavior or thought about a topic.
+    There are countless sources of fake news nowadays, mostly coming from programmed bots, that can't get tired (they're machines hehe) and continue. to spread false information     24/7.
+    Serious studies in the past 5 years, have demonstrated big correlations between the spread of false information and elections, the popular opinion or feelings about             different topics.
+
+    The problem is real and hard to solve because the bots are getting better are tricking us. Is not simple to detect when the information is true or not all the time, so we       need better systems that help us understand the patterns of fake news to improve our social media, communication and to prevent confusion in the world.
+
+
 
 ### Sourcerer
 <a href="https://sourcerer.io/spidy20"><img src="https://avatars2.githubusercontent.com/u/42056100?v=4" height="50px" width="50px" alt=""/></a>
@@ -28,13 +33,4 @@
 <img src="https://github.com/Spidy20/Fake_News_Detection/blob/master/s2.PNG">
 
 ## Note
-- This project is just for learning purpose, don't think, it can do work in real time, because model was trained on historic & limited data.
-- For real time building of this kind of system, we need updated dataset and we need to build a model in particular interval of time, because news data can be updated in seconds, so our model should be also updated with the data.
 
-
-
-## Just follow☝️ me and Star⭐ my repository 
-
-# [Buy me a Coffee☕](https://www.buymeacoffee.com/spidy20)
-## [Donate me on PayPal(It will inspire me to do more projects)](https://www.paypal.me/spidy1820)
-## Donate me on GPAY:- kushalbhavsar58-1@okaxis
