@@ -17,7 +17,15 @@
     Is not simple to detect when the information is true or not all the time, so we 
     need better systems that help us understand the patterns of fake news to improve our social media, communication and to prevent confusion in the world.
 
-
+## Working:
+The project has been divided in 7 steps:
+• #Step-1 Loading Dataset
+• #Step-2 Data Preprocessing
+• #Step-3 Data Exploratory Analysis (EDA)
+• #Step-4 Text Preprocessing
+• #Step-5 Modeling Classifier
+• #Step-6 Loading Flask Server
+• #Step-7 Deploying on web
 
 
 ## Screenshots
