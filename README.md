@@ -26,6 +26,10 @@
     • #Step-5 Modeling Classifier
     • #Step-6 Loading Flask Server
     • #Step-7 Deploying on web
+    
+## Novelty:
+    • Reduced Complexity Standards at high rates with easy to use ui
+    • Fast and sound classifier model
 
 
 ## Screenshots
