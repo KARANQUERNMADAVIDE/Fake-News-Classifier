@@ -27,6 +27,12 @@
     • #Step-6 Loading Flask Server
     • #Step-7 Deploying on web
     
+## Techniques Incorporated:
+    • NLP:
+        • TfIdfVectorizer
+    • Modelling:
+        • PassiveAggressiveClassifier (Accuracy 93.69 %)
+    
 ## Novelty:
     • Reduced Complexity Standards at high rates with easy to use ui
     • Fast and sound classifier model
